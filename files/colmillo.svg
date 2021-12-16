@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 600" style="enable-background:new 0 0 500 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.8709;stroke-miterlimit:10;}
+	.st1{fill:#3D3D3B;}
+	.st2{font-family:'Roboto-Light';}
+	.st3{font-size:12px;}
+	.st4{font-family:'BarlowSemiCondensed-Light';}
+	.st5{font-size:13.0641px;}
+	.st6{fill:none;}
+	.st7{fill:none;stroke:#C6C6C6;stroke-width:0.5226;stroke-miterlimit:10;stroke-dasharray:1.7419,1.7419;}
+	.st8{font-family:'Roboto-Bold';}
+	.st9{font-size:17px;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#DD7324;}
+</style>
+<g id="grafico">
+	<g>
+		<line class="st0" x1="212.6" y1="554.5" x2="349.8" y2="554.5"/>
+		<g>
+			<g>
+				<line class="st0" x1="213" y1="557.9" x2="213" y2="553.9"/>
+				<line class="st0" x1="349.4" y1="557.9" x2="349.4" y2="554"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 172.5142 558.3447)" class="st1 st2 st3">0 cm</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 172.7676 459.9258)" class="st1 st2 st3">2 cm</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 172.7676 362.124)" class="st1 st2 st3">4 cm</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 172.7676 264.3193)" class="st1 st2 st3">6 cm</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 182.064 166.5166)" class="st1 st4 st5">8</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 172.7676 68.7168)" class="st1 st2 st3">10 cm</text>
+			</g>
+		</g>
+		<line class="st6" x1="182.6" y1="554.4" x2="185" y2="65.4"/>
+		<g>
+			<g>
+				<line class="st0" x1="212.6" y1="554.4" x2="349.4" y2="554.5"/>
+				<line class="st7" x1="213.5" y1="456.7" x2="349" y2="456.7"/>
+				<line class="st7" x1="213.5" y1="358.9" x2="349" y2="358.9"/>
+				<line class="st7" x1="213.5" y1="261.1" x2="349" y2="261.1"/>
+				<line class="st7" x1="197.8" y1="163.3" x2="349" y2="163.3"/>
+				<line class="st7" x1="213.5" y1="65.4" x2="349" y2="65.4"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="302.9" y="482.9" class="st6" width="30.4" height="71.6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="226.9" y="65.4" class="st6" width="30.4" height="489"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Colmillo-gato">
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="147" height="177" xlink:href="colmillo-gato.png"  transform="matrix(0.5301 0 0 0.5401 286.0706 470.3882)">
+		</image>
+	</g>
+</g>
+<g id="Colmillo-tigre">
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="412" height="899" xlink:href="colmillo-tigre.png"  transform="matrix(0.583 0 0 0.583 117.1355 49.3718)">
+		</image>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1.0884 0 0 1 308.4893 470.6455)" class="st1 st8 st9">1,5 cm</text>
+</g>
+<g>
+	<text transform="matrix(1.0884 0 0 1 271.8848 45.6362)" class="st1 st8 st9">7,5 a 10 cm</text>
+</g>
+<g>
+	<rect x="204" y="557.5" class="st10" width="152" height="20"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 302.5117 574.1729)" class="st1 st8 st9">Gato</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 230.96 574.1582)" class="st11 st8 st9">Tigre</text>
+</g>
+</svg>
